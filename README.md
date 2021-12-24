@@ -1,0 +1,2 @@
+# Corredor-loko
+Corre locamente
